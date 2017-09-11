@@ -1,0 +1,77 @@
+body {  
+	width: auto;
+	height: auto;
+	left: auto; 
+	top: auto;
+	margin: auto; 
+    font: 12px/170% Verdana,sans-serif;
+	text-align: center;
+    color: #000000;
+	background-color: #C8C9C7;
+}
+
+header {
+	padding: 20px;
+	margin-bottom: 10px;
+	font: bold 40px verdana, sans-serif;
+	text-align: center;
+	color: black;
+}
+
+footer {
+	padding: 20px;
+	text-align: center;
+	color: black;
+	clear: both;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	margin: 10px;
+}
+
+button { 
+	text-align: center;
+	width: 150px;
+	margin: 10px;
+}
+
+figure.animal {
+	float: left; 
+	width: 10%;	
+	margin-top: 15px;
+}
+
+.idioma {
+	float: left; 
+	width: 33%;	
+	margin-bottom: 10px;
+}
+
+#contido {
+	float: left; 
+	width: 100%;	
+	margin-bottom: 10px;
+	background-color: white;
+}
+
+#instrucions {
+	float: left; 
+	width: 25%;	
+	margin-bottom: 10px;
+	color: green;
+	text-align: center;
+}
+
+#solucion {	
+	float: left; 
+	width: 10%;
+	height: 128px;
+    border: 2px solid;
+    border-color: red;
+	color: red;
+	text-align: center;
+	margin-top: 15px;
+}
